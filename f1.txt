@@ -1,3 +1,5 @@
 Testing
 Now, git push is working.
 Excellent.
+
+Now using credential.helper to store username and password so that GitHub doesn't ask these everytime I push.
